@@ -1,0 +1,1 @@
+SELECT DISTINCT(DATE) FROM `benchmark-233013.Benchmarking_Argon.benchmarking_master` ORDER By DATE DESC LIMIT 1000
